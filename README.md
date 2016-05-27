@@ -1,6 +1,6 @@
 #Graphic User Interface for the Securitty Staff
 
-![Alt text](/gui/app.jpg )
+![Alt text](/app.jpg )
 
 Created using Processing (Java), the three basic functions are:
 -Interactive interface using Interfascia library and 3D shapes.
